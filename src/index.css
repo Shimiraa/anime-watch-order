@@ -1,0 +1,105 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  scroll-behavior: smooth;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ------------- Container ------------- */
+
+.container-lg {
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* ------------- Franchise ------------- */
+
+.fr-heading {
+  margin-top: 2em;
+}
+
+#fr-entry-header {
+  cursor: pointer;
+}
+
+#fr-entry-header .header-control {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#fr-entry-header .header-control .expand-icon {
+  transition: transform 0.3s ease;
+}
+
+#fr-entry-header.open .header-control .expand-icon {
+  transform: rotate(180deg);
+}
+
+#fr-entry-header .divider {
+  margin-top: 0.5em;
+  transition: margin 0.3s ease;
+}
+
+#fr-entry-header.open .divider {
+  margin: 0.5em 0 1.5em 0;
+}
+
+#fr-entry-list {
+  max-height: 0;
+  transition: max-height 0.3s ease;
+  overflow-y: scroll;
+}
+
+#fr-entry-list.open {
+  visibility: visible;
+  max-height: 500px;
+}
+
+.fr-order-note {
+  display: inline-block;
+  width: 100%;
+}
+
+.fr-order-item {
+  cursor: pointer;
+}
+
+.fr-order-table th {
+  font-weight: 700;
+}
+
+.fr-order {
+  margin: 2em 0;
+}
+
+.fr-order-table-container {
+  margin: 1em 0;
+}
+
+.fr-order-nav {
+  padding-inline-start: 30px;
+}
+
+.fr-order-header {
+  display: flex;
+}
+
+.fr-to-top {
+  margin-left: 0.5em;
+  display: flex;
+  width: fit-content;
+  align-items: center;
+}

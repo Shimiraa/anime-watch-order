@@ -1,0 +1,393 @@
+{
+  "name": "Macross",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1088-b2eAPvA5zmmi.png",
+  "introduction": [
+    "Originally inspired by Gundam the Macross Franchise is a Franchise that started as a passion project of the mecha fan club consisting of Shouji Kawamori, Hiroshi Oonogi and Haruhiko Mikimoto. They put their own twist on the Mecha genre mixing it with Music, specifically idols, being insanely important in the history of both genres.",
+    "There is multiple ways to approach this franchise with the \"optimal\" way to approach the franchise being to at least watch the original macross before watching any other entries. If you prefer not to watch older anime and are contempt with missing some references and maybe not fully understanding some core concepts realistically any Macross entry works as an entrypoint into the franchise."
+  ],
+  "entries": [
+    {
+      "id": 1088,
+      "type": "TV",
+      "name": "Super Dimensional Fortress Macross",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1088-b2eAPvA5zmmi.png",
+      "length": 36,
+      "startDate": "1982-10-03",
+      "studio": ["Tatsunoko Production", "Studio Nue"]
+    },
+    {
+      "id": 1089,
+      "type": "Movie",
+      "name": "Macross: Do You Remember Love?",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1089-uoP83D60OHxP.jpg",
+      "length": 1,
+      "startDate": "1984-07-07",
+      "studio": ["Tatsunoko Production", "Artland"]
+    },
+    {
+      "id": 1504,
+      "type": "OVA",
+      "name": "Macross: Flash Back 2012",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1088-b2eAPvA5zmmi.png",
+      "length": 1,
+      "startDate": "1987-06-21",
+      "studio": ["Tatsunoko Production", "Artland"]
+    },
+    {
+      "id": 1262,
+      "type": "OVA",
+      "name": "Macross II: Lovers Again",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1262-tGQ9fvpQ4PJg.jpg",
+      "length": 6,
+      "startDate": "1992-05-21",
+      "studio": ["AIC"]
+    },
+    {
+      "id": 474,
+      "type": "OVA",
+      "name": "Macross Plus",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx474-lyjbbltW5ZX4.png",
+      "length": 4,
+      "startDate": "1994-08-25",
+      "studio": ["Triangle Staff"]
+    },
+    {
+      "id": 1211,
+      "type": "Movie",
+      "name": "Macross Plus Movie Edition",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1211-0HhVts22SYvB.jpg",
+      "length": 1,
+      "startDate": "1995-10-07",
+      "studio": ["Triangle Staff"]
+    },
+    {
+      "id": 1397,
+      "type": "TV",
+      "name": "Macross 7",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1397-D9MLYHZhOnYO.png",
+      "length": 49,
+      "startDate": "1994-10-16",
+      "studio": ["Ashi Productions", "Hero"]
+    },
+    {
+      "id": 6209,
+      "type": "Special",
+      "name": "Macross 7 Plus",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6209-rDvY827POOpj.jpg",
+      "length": 12,
+      "startDate": "1995-01-25",
+      "studio": ["Ashi Productions"]
+    },
+    {
+      "id": 1400,
+      "type": "Movie",
+      "name": "Macross 7: The Galaxy is Calling Me!",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1400-LU1KzLIsRcI8.jpg",
+      "length": 1,
+      "startDate": "1995-09-30",
+      "studio": ["Hal Film Maker", "Studio Junio"]
+    },
+    {
+      "id": 1399,
+      "type": "OVA",
+      "name": "Macross 7 Encore",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1399.jpg",
+      "length": 3,
+      "startDate": "1995-12-18",
+      "studio": ["Ashi Productions"]
+    },
+    {
+      "id": 1398,
+      "type": "OVA",
+      "name": "Macross Dynamite 7",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1398-9gRQTxYob2Ji.jpg",
+      "length": 4,
+      "startDate": "1997-12-18",
+      "studio": ["Ashi Productions"]
+    },
+    {
+      "id": 194,
+      "type": "OVA",
+      "name": "Macross Zero",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194-WGTjEMUnjGaW.jpg",
+      "length": 5,
+      "startDate": "2002-12-21",
+      "studio": ["Satelight"]
+    },
+    {
+      "id": 3572,
+      "type": "TV",
+      "name": "Macross Frontier",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3572-qYJhokKdsnZR.png",
+      "length": 26,
+      "startDate": "2008-04-04",
+      "studio": ["Satelight"]
+    },
+    {
+      "id": 4454,
+      "type": "Special",
+      "name": "Macross Frontier Deculture Edition ",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4454.jpg",
+      "length": 1,
+      "startDate": "2007-12-23",
+      "studio": ["Satelight"]
+    },
+    {
+      "id": 5310,
+      "type": "Movie",
+      "name": "Macross Frontier: The False Songstress",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5310-XvFJTkCobkvk.jpg",
+      "length": 1,
+      "startDate": "2009-11-21",
+      "studio": ["Satelight", "8-bit"]
+    },
+    {
+      "id": 7222,
+      "type": "Movie",
+      "name": "Macross Frontier: The Wings of Farewell",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7222-O7mOS8vlnIO4.jpg",
+      "length": 1,
+      "startDate": "2011-02-26",
+      "studio": ["Satelight", "8-bit"]
+    },
+    {
+      "id": 129549,
+      "type": "Movie",
+      "name": "Macross Frontier: Labyrinth of Time",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129549-sWCeTfeFW144.jpg",
+      "length": 1,
+      "startDate": "2021-10-08",
+      "studio": ["Satelight"]
+    },
+    {
+      "id": 15177,
+      "type": "Movie",
+      "name": "Macross FB7 Listen to My Song!",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15177.jpg",
+      "length": 1,
+      "startDate": "2012-10-20",
+      "studio": ["Satelight", "Big West", "flying DOG"]
+    },
+    {
+      "id": 20680,
+      "type": "TV",
+      "name": "Macross Δ",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20680-IVFFnv8oXahy.jpg",
+      "length": 26,
+      "startDate": "2016-04-03",
+      "studio": ["Satelight"]
+    },
+    {
+      "id": 97952,
+      "type": "Special",
+      "name": "Macross Δ Special",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97952-9vHdgqnU4nl1.png",
+      "length": 9,
+      "startDate": "2016-07-22",
+      "studio": ["Studio PuYUKAI"]
+    },
+    {
+      "id": 101126,
+      "type": "Movie",
+      "name": "Macross Δ: Passionate Walküre",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101126-EkTBTjUhjsfH.jpg",
+      "length": 1,
+      "startDate": "2018-02-09",
+      "studio": ["Satelight"]
+    },
+    {
+      "id": 122678,
+      "type": "Special",
+      "name": "Macross Δ Movie: Picture Drama",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b122678-20IiELnXCr1L.png",
+      "length": 1,
+      "startDate": "2018-08-28",
+      "studio": ["Satelight"]
+    },
+    {
+      "id": 122675,
+      "type": "Special",
+      "name": "Macross Δ Movie Special",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b122675-mZooqTdnCpGg.png",
+      "length": 1,
+      "startDate": "2018-08-28",
+      "studio": ["Studio PuYUKAI"]
+    },
+    {
+      "id": 118126,
+      "type": "Movie",
+      "name": "Macross Δ: Zettai LIVE!!!!!!",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118126-kcHtcMuSH3P6.png",
+      "length": 1,
+      "startDate": "2021-10-08",
+      "studio": ["Satelight"]
+    }
+  ],
+  "orderInfo": {
+    "introduction": [
+      "In the Macross Franchise alternative versions are a common occurrance, most main entries in the franchise have movie alternatives that vary in how \"different\" they are to the original versions. In some cases they are just summaries / recuts of the original and in some cases they start off full on alternative timelines. Some really short entries showing off Fighter Designs and Music entries are excluded. The entry listings arent necessarily a watch-order as the almost any main entry that isn't a direct sequel can be used as an entry point (although not recommended in every case). The recommended watch order is going by release dates."
+    ],
+    "orders": [
+      {
+        "name": "Main Timeline",
+        "description": "",
+        "tables": [
+          {
+            "name": "",
+            "entries": [
+              {
+                "id": 194,
+                "episodes": 5
+              },
+              {
+                "id": 1088,
+                "episodes": 36,
+                "main": true
+              },
+              {
+                "id": 474,
+                "episodes": 4
+              },
+              {
+                "id": 1397,
+                "episodes": 49,
+                "main": true
+              },
+              {
+                "id": 6209,
+                "episodes": 12
+              },
+              {
+                "id": 1400,
+                "episodes": 1
+              },
+              {
+                "id": 1399,
+                "episodes": 3
+              },
+              {
+                "id": 1398,
+                "episodes": 4,
+                "main": true
+              },
+              {
+                "id": 3572,
+                "episodes": 25,
+                "main": true
+              },
+              {
+                "id": 20680,
+                "episodes": 26,
+                "main": true
+              },
+              {
+                "id": 97952,
+                "episodes": 9
+              },
+              {
+                "id": 118126,
+                "episodes": 1,
+                "main": true
+              }
+            ],
+            "notes": [
+              "Main entries are highlighted, if you only want to watch the core entries you could watch those",
+              "Macross Zero is a prequel to the original Macross but should be watched AFTER finishing the original TV series"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Alternative Timelines",
+        "description": "",
+        "tables": [
+          {
+            "name": "Original Series",
+            "entries": [
+              {
+                "id": 1089,
+                "episodes": 1,
+                "note": "Alternative movie version of the original TV series, varies drastically in the second half and has an entirely different ending"
+              },
+              {
+                "id": 1504,
+                "episodes": 1,
+                "note": "Compilation of scenes and songs from both the TV version and the movie \"Do You Remember Love?\""
+              },
+              {
+                "id": 1262,
+                "episodes": 6,
+                "note": "Follow-up on the alternative timeline of DYRL, completely unrelated to any other Macross entry"
+              }
+            ]
+          },
+          {
+            "name": "Plus",
+            "entries": [
+              {
+                "id": 1211,
+                "episodes": 1,
+                "note": "Movie version of Plus, just full on recut, almost no difference"
+              }
+            ]
+          },
+          {
+            "name": "7 / Frontier",
+            "entries": [
+              {
+                "id": 15177,
+                "episodes": 1,
+                "note": "Frontier characters watching a summary movie of Macross 7"
+              }
+            ]
+          },
+          {
+            "name": "Frontier",
+            "entries": [
+              {
+                "id": 4454,
+                "episodes": 1,
+                "note": "Alternative expanded first episode of Frontier"
+              },
+              {
+                "id": 5310,
+                "episodes": 1,
+                "note": "First half of a movie alternative timeline to Macross Frontier, some parts taken from the TV series, some completely original"
+              },
+              {
+                "id": 7222,
+                "episodes": 1,
+                "note": "Second half of the movie alternative timeline with a full on original ending"
+              },
+              {
+                "id": 129549,
+                "episodes": 1,
+                "note": "Short movie playing in the timeline of the alternative movies, this plays AFTER the movies"
+              }
+            ]
+          },
+          {
+            "name": "Delta",
+            "entries": [
+              {
+                "id": 101126,
+                "episodes": 1,
+                "note": "Recompilation of the TV series, with some new scenes trying to fix some plotholes of the TV series, also cutting some parts"
+              },
+              {
+                "id": 122678,
+                "episodes": 1,
+                "note": "Small specials included with the blu-ray release"
+              },
+              {
+                "id": 122675,
+                "episodes": 1,
+                "note": "Chibi shorts included with the blu-ray release"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
